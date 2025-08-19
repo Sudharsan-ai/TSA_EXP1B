@@ -78,10 +78,12 @@ plt.show()
 
 ### OUTPUT:
 
+ORIGINAL DATA:
+
+![alt text](image.png)
+
 REGULAR DIFFERENCING:
 <img width="1846" height="311" alt="image" src="https://github.com/user-attachments/assets/da852a09-dfd8-4f4f-85d8-39363cb05ffa" />
-
-
 
 SEASONAL ADJUSTMENT:
 
@@ -90,8 +92,13 @@ SEASONAL ADJUSTMENT:
 LOG TRANSFORMATION:
 
 <img width="1834" height="307" alt="image" src="https://github.com/user-attachments/assets/fb30fc00-3828-4bee-8640-f2c0eb4174c1" />
+LOG + REGULAR DIFFERENCING:
 
+![alt text](<Screenshot 2025-08-19 130747.png>)
 
+LOG + REGULAR DIFFERENCING + SEASONAL ADJUSTMENT:
+
+![alt text](image-2.png)
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
 data.
