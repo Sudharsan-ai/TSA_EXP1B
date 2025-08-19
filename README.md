@@ -11,8 +11,6 @@ To perform regular differncing,seasonal adjustment and log transformatio on inte
 5. Display the overall results.
 ### PROGRAM:
 
-
-### OUTPUT:
 ```
 import pandas as pd
 import numpy as np
@@ -77,6 +75,8 @@ plt.tight_layout()
 plt.show()
 
 ```
+
+### OUTPUT:
 
 REGULAR DIFFERENCING:
 <img width="1846" height="311" alt="image" src="https://github.com/user-attachments/assets/da852a09-dfd8-4f4f-85d8-39363cb05ffa" />
